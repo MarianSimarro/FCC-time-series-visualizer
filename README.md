@@ -1,18 +1,4 @@
-This is the boilerplate for the Page View Time Series Visualizer project. Instructions for building your project can be found at https://www.freecodecamp.org/learn/data-analysis-with-python/data-analysis-with-python-projects/page-view-time-series-visualizer
-
 Demographic Data Analyzer
-
-You will be working on this project with our Replit starter code.
-
-    Start by importing the project on Replit.
-    Next, you will see a .replit window.
-    Select Use run command and click the Done button.
-
-We are still developing the interactive instructional part of the Python curriculum. For now, here are some videos on the freeCodeCamp.org YouTube channel that will teach you everything you need to know to complete this project:
-
-    Python for Everybody Video Course (14 hours)
-
-    How to Analyze Data with Python Pandas (10 hours)
 
 In this challenge you must analyze demographic data using Pandas. You are given a dataset of demographic data that was extracted from the 1994 Census database. Here is a sample of what the data looks like:
 
